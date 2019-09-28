@@ -9,3 +9,8 @@ while True:
         print('hello world')
     time.sleep(1)
     i += 1
+
+
+def pay():
+
+    print('请支付现金2000')
