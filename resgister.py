@@ -7,3 +7,5 @@ while True:
         break
     else:
         print('hello world')
+    time.sleep(1)
+    i += 1
