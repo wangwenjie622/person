@@ -14,5 +14,5 @@ while True:
 def pay():
 
     print('请支付现金2000')
-
 # test_show
+print('测试')
